@@ -1,12 +1,12 @@
 # covid19_audio
 
-This is a collection of soundtracks extracted from videos available on the web. It unites short fragments of speech attributed either to subjects tested positive for COVID-19 or random people considered healthy. 
+This is a collection of soundtracks extracted from videos available on the web. It includes short fragments of speech attributed either to subjects tested positive for COVID-19 or healthy ones that could be used as controls.
 
-The data is intended to provide ML and AI communities with the first training set to be used in developing algorithms based on sound data for pre-screening of potential COVID-19 cases.
+The data is intended to provide the ML and AI communities with the first training set to be used in developing algorithms, based on audio data, for pre-screening of COVID-19.
 
-We hope this is to be the first step that will permit us to proof that sounds produced by humans can be enough to discriminate between healthy and unhealthy cases. Success of this step will allow to attract enough interest and attention and consequently collect more targeted data of a better quality.
+We hope this to be a first step to validate the idea that voices contain enough signals on the health of an individual. If succesfull in this first task, we hope to gather enough interest and attention to collect a large number of high quality data to actually build a precise, easy to use test for pre-screening COVID-19.
 
-We hypothesize that easy-anonymizable sounds of human breath and fake cough can be sufficient for high accuracy detection of respiratory problems indicative of flu-like infections, including COVID-19. Moreover, the data collection once established will be effortless since microphones and sound recording apps already available on common smartphone will be sufficient data collection.
+We think that easy-anonymizable sounds of human breath and fake cough might be sufficient for high accuracy detection of respiratory problems indicative of flu-like infections, including COVID-19. Leveraging microphones already available on common smartphone, data collection can be fast, effortless and democratic.
 
 
 https://drive.google.com/open?id=1Bp9IPmj1UlEGshYVTWeGUB-01nz6fh0E
